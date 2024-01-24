@@ -1,0 +1,5 @@
+resources:
+- namespaces.yaml
+- configuration.yaml
+- permission.yaml
+- job.yaml
